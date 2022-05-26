@@ -1,0 +1,7 @@
+{% load split_filter %}
+<nav>
+    <a class='home' href="{% url 'horoscope-index' %}">Главная</a>
+    {% for key, name in zodiacs.items %}
+    <a href="{% url 'horoscope-name' key %}">{{ name|split|first }}</a>
+    {% endfor %}
+</nav>
