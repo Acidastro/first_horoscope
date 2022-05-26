@@ -1,0 +1,2 @@
+# first_horoscope
+ In May 2022, I started learning the django framework. This is my first pet project on it. Here I am trying to implement one main page and twelve pages with the name and description of the zodiac sign. Independently improving and supplementing them as you learn the framework.In May 2022, I started learning the django framework. This is my first pet project on it. Here I am trying to implement one main page and twelve pages with the name and description of the zodiac sign. Independently improving and supplementing them as you learn the framework.
